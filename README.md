@@ -1,4 +1,4 @@
-# XTX High Frequency Trading - Codebase
+# High Frequency Trading - Codebase
 
 ---
 
@@ -144,4 +144,5 @@ Analysis functions in `function.py` (e.g., `analyze_feature_correlations_final`)
 
 ## Acknowledgment
 
-This codebase refactoring consolidates efforts to improve the maintainability and performance of the XTX HFT project.
+This codebase refactoring consolidates efforts to improve the maintainability and performance of the HFT project.
+
