@@ -99,7 +99,9 @@ A Jupyter Notebook that demonstrates the usage of `function.py`. It is used for:
 -   Loading pre-computed predictions.
 -   Optimizing ensemble weights.
 -   Visualizing model performance.
+-   ![Example](./picture/ensemble_performance.png)
 -   Analyzing feature importance (Tornado Charts).
+-   ![Example](./picture/feature_tornado_final.png)
 
 ---
 
@@ -145,4 +147,5 @@ Analysis functions in `function.py` (e.g., `analyze_feature_correlations_final`)
 ## Acknowledgment
 
 This codebase refactoring consolidates efforts to improve the maintainability and performance of the HFT project.
+
 
